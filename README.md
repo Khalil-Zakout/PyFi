@@ -37,10 +37,9 @@ PyFi is a Python project designed to perform various financial computations and 
 
 1. Run the main script:
     ```sh
-    python main.py
+    python PyFi.py
     ```
 
-2. Add any specific instructions on how to use your project here.
 
 ## Requirements
 
